@@ -1,0 +1,7 @@
+name: BookPaste
+version: ${project.version}
+main: net.poweredbyawesome.bookpaste.BookPaste
+authors: [LaxWasHere]
+commands:
+  bookpaste:
+    aliases: [bp, bpaste]
